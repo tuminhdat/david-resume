@@ -2,6 +2,7 @@ function Skill() {
   return (
     <div class="grid-container">
         <div class="left_screen">
+            <h5><span class="know_lv">Git: </span><a href="https://github.com/tuminhdat">https://github.com/dattuminh</a></h5>
             <table>
                 <tr>
                     <td>Programming/languages</td>
@@ -25,7 +26,6 @@ function Skill() {
                     <td>MVC architecture, Object-Oriented Design, and more</td>
                 </tr>
             </table>
-            <h5><b>Git:</b> <a href="https://github.com/tuminhdat">https://github.com/dattuminh</a></h5>
         </div>
 
         

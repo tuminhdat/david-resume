@@ -8,7 +8,7 @@ function About() {
         I recently graduated from Simon Fraser University with a degree in Computer Science and 
         I am eager to put my education and skills to use in a challenging and rewarding role.
         <br /><br />
-        I have a strong understanding of various technologies and programming languages, including web development, data structures and algorithms, databases and SQL, and object-oriented programming (OOP) languages.
+        I have a strong understanding of various technologies and programming languages, including web development, data structures and algorithms, databases(T-SQL), and object-oriented programming (OOP) languages.
         I'm constantly learning and staying up to date with the latest developments in my field.  
         <br /><br /> 
         I am confident in my ability to succeed in Computer programming and I am eager to continue growing and developing my skills. 
@@ -23,7 +23,7 @@ function About() {
       </div>
 
       <div class="right_screen">
-        <img class="picture_image" src={ require("../image/nevergiveup.jpg") } alt="Never Give up" />
+        <img class="picture_image" src={ require("../image/nevergiveup.png") } alt="Never Give up" />
       </div>
     </div>
   );

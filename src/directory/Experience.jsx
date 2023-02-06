@@ -7,8 +7,10 @@ function Experience() {
             </div>
         </div>
 
+        <h4>These are the various projects I have been a part of as a software developer.</h4>
+
         <div class="skill_info_1">
-            <h2>CODERCAFE</h2>
+            <h2>Coder's Cafe</h2>
             <p>Developed a kiosk application that streamlines the ordering process and reduces the need for in-person interaction. 
                 The solution allows customers to place their orders on a touch screen, eliminating the need to wait in line or interact with a cashier. 
                 The system integrates with a restaurant's existing menu and payment systems to provide a seamless, efficient ordering experience. 
@@ -22,7 +24,7 @@ function Experience() {
         </div>
             
         <div class="skill_info_1">
-            <h2>FITGAIN</h2>
+            <h2>FitGain</h2>
             <p>Developed a fitness app to help users maintain a daily workout routine at home. 
                 Offered certified professional workout sessions of 10 minutes to half an hour, 
                 calculated calories burned and recorded caloric intake to provide net intake. 
@@ -37,7 +39,7 @@ function Experience() {
         </div>
 
         <div class="skill_info_1">
-            <h2>COOKER</h2>
+            <h2>Cooker Web Application</h2>
             <p>Developed 'Computing Cooker,' a web app that facilitates recipe search based on ingredients and enables recipe sharing among users. 
                 Implemented user authentication and recipe creation/upload, along with recipe images and instructions. 
                 Built a community of culinary enthusiasts who can interact and share cooking experiences.

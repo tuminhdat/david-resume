@@ -1,6 +1,7 @@
 import './App.css';
 // first, need to import to use Route
 import { Routes, Route, Link } from "react-router-dom";
+import React, { useEffect} from "react";
 
 import Home from "./directory/Home";
 import About from "./directory/About";
@@ -10,8 +11,14 @@ import Contact from "./directory/Contact";
 
 
 function App() {
+  useEffect(() => {
+    document.title = "Programmer | David Tu";  
+  }, []);
   return (
     <div>
+      <head>
+        <title>Programmer | David Tu</title>
+      </head>
       <div class="task_bar">
         <nav>
           <a><Link to="/"> Home </Link></a>
