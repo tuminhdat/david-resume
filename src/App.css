@@ -110,3 +110,12 @@ td:nth-child(1){
   width: 100%;
   height: auto;
 }
+
+#statement{
+  width: 70%;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: x-large;
+  margin-top: 5%;
+}

@@ -1,13 +1,13 @@
 function Experience() {
   return (
     <div>
-      <div class="change_background_color">
+        <div class="change_background_color">
             <div id="skill_info_title">
                 <img id="experience_image" src={ require("../image/experience.png") } alt="experience image" />
             </div>
         </div>
 
-        <h4>These are the various projects I have been a part of as a software developer.</h4>
+        <p id="statement">These are the various projects I have been a part of as a software developer.</p>
 
         <div class="skill_info_1">
             <h2>Coder's Cafe</h2>
@@ -32,8 +32,9 @@ function Experience() {
                 Helped users meet personal health goals with daily reminders and personalized support.
             </p>
             <ul>
-                <li>Developed a full stack kiosk application for ordering food during COVID-19, using .NET Framework and MVC architecture. Implemented user-friendly UI with WPF (XAML) and form validation. 
-                    Handled customer data with C# functions and LINQ statements.
+                <li>Designed and developed a full-stack mobile workout and meal planning app using Java Android to help users reach their fitness goals. 
+                    Implemented PostgreSQL database, user authentication and interactive UI using Java and Android Emulator. 
+                    Contributed to a Scrum development team of five to enhance professional development process.
                 </li>
             </ul>
         </div>
