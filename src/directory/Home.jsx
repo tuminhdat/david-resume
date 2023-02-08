@@ -1,3 +1,5 @@
+import Video from "../video/vid.mp4";
+
 function Home() {
   return (
     <div class="grid-container">
@@ -7,7 +9,10 @@ function Home() {
           So sit back, grab a drink, and let's dive in together!</b>
       </div>
       <div class="right_screen">
-        <img src={ require("../image/photo_image_2.jpg") } alt="Photo Image" />
+        {/* <img src={ require("../image/photo_image_2.jpg") } alt="Photo Image" /> */}
+        <video id="video_frame" controls autoplay>
+          <source src={Video} type="video/mp4" />
+        </video>
       </div>
     </div>
   );

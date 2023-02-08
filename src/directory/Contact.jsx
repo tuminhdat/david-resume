@@ -10,7 +10,7 @@ function Contact() {
         <a onClick={myFunction}>David Tu</a>
         <br />
         <h2>Email</h2>
-        <a href="dattuminh@gmail.com">dattuminh@gmail.com</a>
+        <p id="email">davidtu1995@gmail.com</p>
       </div>
       
       <div class="right_screen">
