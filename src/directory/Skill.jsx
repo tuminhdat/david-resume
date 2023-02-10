@@ -6,16 +6,23 @@ function Skill() {
             <table>
                 <tr>
                     <td>Programming/languages</td>
-                    <td>C++ (<span class="know_lv">3+</span>),  
-                        Java (<span class="know_lv">3+</span>), CSS (<span class="know_lv">2+</span>), Python (<span class="know_lv">3+</span>), T-SQL (<span class="know_lv">3+</span>), JavaScript (<span class="know_lv">3+</span>)</td>
+                    <td>C++ (<span class="know_lv">7</span>),  
+                        Java (<span class="know_lv">8</span>), 
+                        CSS (<span class="know_lv">6</span>), 
+                        Python (<span class="know_lv">6</span>), 
+                        T-SQL (<span class="know_lv">8</span>),
+                        PHP (<span class="know_lv">7</span>), 
+                        JavaScript (<span class="know_lv">8</span>)</td>
                 </tr>
                 <tr>
                     <td>Framework</td>
-                    <td>Spring (<span class="know_lv">3+</span>), React (<span class="know_lv">3+</span>)</td>
+                    <td>Spring (<span class="know_lv">7</span>),
+                        .NET (<span class="know_lv">6</span>), 
+                        React (<span class="know_lv">7</span>)</td>
                 </tr>
                 <tr>
                     <td>Tools</td>
-                    <td>Git, Clion, Visual Studio, IntelliJ, Cmake, Oracle VM VirtualBox</td>
+                    <td>Git, Visual Studio, IntelliJ, Cmake, Oracle VM VirtualBox, Selenium IDE, Word, Excel, PPT</td>
                 </tr>
                 <tr>
                     <td>Operating Systems</td>
