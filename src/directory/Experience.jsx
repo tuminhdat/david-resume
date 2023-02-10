@@ -33,7 +33,7 @@ function Experience() {
             </p>
             <ul>
                 <li>Designed and developed a full-stack mobile workout and meal planning app using Java Android to help users reach their fitness goals. 
-                    Implemented PostgreSQL database, user authentication and interactive UI using Java and Android Emulator. 
+                    Implemented SQLite database, user authentication and interactive UI using Java and Android Emulator. 
                     Contributed to a Scrum development team of five to enhance professional development process.
                 </li>
             </ul>
