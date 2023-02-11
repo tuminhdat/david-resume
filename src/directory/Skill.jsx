@@ -9,7 +9,7 @@ function Skill() {
                     <td>C++ (<span class="know_lv">7</span>),  
                         Java (<span class="know_lv">8</span>), 
                         CSS (<span class="know_lv">6</span>), 
-                        Python (<span class="know_lv">6</span>), 
+                        Python (<span class="know_lv">4</span>), 
                         T-SQL (<span class="know_lv">8</span>),
                         PHP (<span class="know_lv">7</span>), 
                         JavaScript (<span class="know_lv">8</span>)</td>
